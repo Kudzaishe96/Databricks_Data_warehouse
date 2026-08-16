@@ -14,8 +14,7 @@
 
 ### Project Overview
 
-implementng spark declarative pieline using Databricks platform for Data extraction ,data cleaning usng the medalion architecture.
-
+To build a declarative, metadata-driven Medallion-architecture pipeline (Bronze/Silver/Gold) on Databricks, using a control metadata catalog to dynamically define and orchestrate table loads, and Kimball dimensional modeling to produce analytics-ready dimension and fact tables
 
 ### Data Source
 EMR and CMR Data csv files uploaded into databricks wokrkspace
